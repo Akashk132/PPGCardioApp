@@ -55,10 +55,7 @@ Generates a 30-second screening report containing:
 | Visualization | Custom WaveformView |
 | Storage | Local JSON/Room (optional) |
 
----
 
 
----
 
-## 🏗️ Project Structure
 
